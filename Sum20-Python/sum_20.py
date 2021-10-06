@@ -20,11 +20,13 @@ def total_20(num):
     return total
 
 def check_20_or_not(total):
+    output= ""
     print(str(total))
     if total == 20:
-        print("The numbers sum up 20")
+        output = "The numbers sum up 20"
     else:
-        print("The numbers don't sum up 20")
+        output = "The numbers don't sum up 20"
+    return output
 
 def display():
     num = get_input()
@@ -33,7 +35,7 @@ def display():
         num = get_input()
     
     total = total_20(num)
-    check_20_or_not(total)
+    print(check_20_or_not(total))
 
 if __name__ == "__main__":
     display()
