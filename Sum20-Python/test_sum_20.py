@@ -20,11 +20,11 @@ class TestSum(unittest.TestCase):
 
     def test_display_20(self):
         tot = sum_20.total_20("875")
-        self.assertEqual("The numbers sum up 20", sum_20.check_20_or_not(tot))
+        self.assertEqual("875 sum up 20", sum_20.check_20_or_not("875", tot))
 
     def test_display_not_20(self):
         tot = sum_20.total_20("973")
-        self.assertEqual("The numbers don't sum up 20", sum_20.check_20_or_not(tot))
+        self.assertEqual("973 don't sum up 20", sum_20.check_20_or_not("973",tot))
 
 if __name__ == "__main__":
     unittest.main()

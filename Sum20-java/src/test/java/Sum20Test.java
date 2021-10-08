@@ -30,12 +30,12 @@ class Sum20Test {
     @Test
     void testDisplay20(){
         int tot = Sum20.total20("875");
-        assertEquals("The numbers sum up 20", Sum20.check20OrNot(tot));
+        assertEquals("875 sum up 20", Sum20.check20OrNot("875",tot));
     }
 
     @Test
     void testDisplayNot20(){
         int tot = Sum20.total20("973");
-        assertEquals("The numbers don't sum up 20", Sum20.check20OrNot(tot));
+        assertEquals("973 don't sum up 20", Sum20.check20OrNot("973",tot));
     }
 }
