@@ -1,11 +1,12 @@
 import java.util.Scanner;
 
 public class Sum20 {
+    private static Scanner sc;
     /**
      The user is asked to enter exactly 3 digits as input
      @returns: 3-digit input*/
     public static String getInput(){
-        Scanner sc = new Scanner(System.in);
+        sc = new Scanner(System.in);
         System.out.print("Enter 3 digits that sum up 20: ");
         return sc.nextLine();
     }
@@ -61,11 +62,9 @@ public class Sum20 {
     */
     public static void display(){
         String num;
-
         do {
             num  = getInput();
         } while (!isInputValid(num));
-
         int total = total20(num);
         System.out.println(check20OrNot(num, total));
     }
