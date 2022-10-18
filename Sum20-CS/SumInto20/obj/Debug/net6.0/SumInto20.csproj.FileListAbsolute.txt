@@ -1,0 +1,15 @@
+C:\Users\STUDENT\Desktop\Personal Projects\bnkala\SumInto20\Sum20-CS\SumInto20\bin\Debug\net6.0\SumInto20.exe
+C:\Users\STUDENT\Desktop\Personal Projects\bnkala\SumInto20\Sum20-CS\SumInto20\bin\Debug\net6.0\SumInto20.deps.json
+C:\Users\STUDENT\Desktop\Personal Projects\bnkala\SumInto20\Sum20-CS\SumInto20\bin\Debug\net6.0\SumInto20.runtimeconfig.json
+C:\Users\STUDENT\Desktop\Personal Projects\bnkala\SumInto20\Sum20-CS\SumInto20\bin\Debug\net6.0\SumInto20.dll
+C:\Users\STUDENT\Desktop\Personal Projects\bnkala\SumInto20\Sum20-CS\SumInto20\bin\Debug\net6.0\SumInto20.pdb
+C:\Users\STUDENT\Desktop\Personal Projects\bnkala\SumInto20\Sum20-CS\SumInto20\obj\Debug\net6.0\SumInto20.csproj.AssemblyReference.cache
+C:\Users\STUDENT\Desktop\Personal Projects\bnkala\SumInto20\Sum20-CS\SumInto20\obj\Debug\net6.0\SumInto20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENT\Desktop\Personal Projects\bnkala\SumInto20\Sum20-CS\SumInto20\obj\Debug\net6.0\SumInto20.AssemblyInfoInputs.cache
+C:\Users\STUDENT\Desktop\Personal Projects\bnkala\SumInto20\Sum20-CS\SumInto20\obj\Debug\net6.0\SumInto20.AssemblyInfo.cs
+C:\Users\STUDENT\Desktop\Personal Projects\bnkala\SumInto20\Sum20-CS\SumInto20\obj\Debug\net6.0\SumInto20.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\Desktop\Personal Projects\bnkala\SumInto20\Sum20-CS\SumInto20\obj\Debug\net6.0\SumInto20.dll
+C:\Users\STUDENT\Desktop\Personal Projects\bnkala\SumInto20\Sum20-CS\SumInto20\obj\Debug\net6.0\refint\SumInto20.dll
+C:\Users\STUDENT\Desktop\Personal Projects\bnkala\SumInto20\Sum20-CS\SumInto20\obj\Debug\net6.0\SumInto20.pdb
+C:\Users\STUDENT\Desktop\Personal Projects\bnkala\SumInto20\Sum20-CS\SumInto20\obj\Debug\net6.0\SumInto20.genruntimeconfig.cache
+C:\Users\STUDENT\Desktop\Personal Projects\bnkala\SumInto20\Sum20-CS\SumInto20\obj\Debug\net6.0\ref\SumInto20.dll

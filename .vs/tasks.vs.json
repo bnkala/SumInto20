@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Sum20",
+      "appliesTo": "Sum20-CS/Sum20.cs",
+      "type": "launch"
+    }
+  ]
+}
